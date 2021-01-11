@@ -1,4 +1,4 @@
-# Visualization of the Double Descent phenomenon in Deep Learning
+# Visualization of the Double Descent phenomenon in Deep Learning (Ongoing)
 
 We replicate the results from below using a simple MLP and MNIST/FMNIST data:
 
